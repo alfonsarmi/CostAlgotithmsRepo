@@ -11,17 +11,11 @@ namespace ConsoleApp4
         public int testc  { get; set; }
 
         public void Caca1() 
-        {
-            //This is a defecation test
-            var a = 1;
-            a = a + 2;
+        { 
         }
 
         public void Caca1(string a)
         {
-            //Holi
-            //QUe ase
-
         }
 
         public void Caca2()
