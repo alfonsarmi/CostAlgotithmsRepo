@@ -29,7 +29,7 @@ namespace ConsoleApp4
             Class1 invokacior = new Class1();
 
             invokacior.Caca1();
-            invokacior.Caca2();
+            invokacior.Caca1("test");
 
             Test();
             Test();
